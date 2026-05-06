@@ -1,0 +1,8 @@
+First Name,Last Name,Ph Number,DOB,Country,Email Address,Gender,Status
+John,Doe,415-555-1234,01/02/90,United States,john.doe@example.com,M,active
+jane,doe,+1 (415) 5551234,1990-01-02,usa,jane.doe@example.com,female,Active
+Bob,Smith,415.555.1235,1990/02/30,US,bob.smith@example.com,male,Inactive
+Alice,Lee,4155551236,March 5 1991,U.S.A,alice.lee@example.com,None,pending
+John,Doe,415-555-1234,01/02/90,United States,john.doe@example.com,M,active
+Maria,Garcia,?,12-25-1992,Spain,maria.garcia@example.com,Female,N/A
+Chris,O'Neil,001-415-555-1237,1992.07.15,united states,chris.oneil@example.com,m,active
