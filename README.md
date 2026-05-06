@@ -10,7 +10,7 @@ A structured, hands-on learning journey through agentic AI — from a working Re
 
 ```
 learn-agentic-ai/
-├── week-01/        # Manual ReAct agent + RAG agent (no framework)
+├── week-01/        # Manual ReAct agent + RAG agent + data normalizer (no framework)
 ├── week-02/        # RAG agent + intro to LangGraph
 ├── week-03/        # LangGraph state machine + multi-tool agent
 ├── week-04/        # Observability + evals
@@ -30,6 +30,7 @@ learn-agentic-ai/
 - [ ] Understand: agent loop, tool schemas, context window, ReAct pattern
 - [ ] **Project 1:** Manual ReAct agent (no framework) ✦ working demo
 - [ ] **Project 2:** RAG agent with ChromaDB ✦ working demo
+- [ ] **Project 3:** Data normalizer agent ✦ working demo
 
 ### 🟡 Week 3–4 — LangGraph + Observability
 - [ ] LangGraph installed, ReAct agent rebuilt with state machine
